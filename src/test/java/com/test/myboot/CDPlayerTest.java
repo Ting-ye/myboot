@@ -25,6 +25,7 @@ public class CDPlayerTest {
         System.out.println();
         cd.getClass();
         assertNotNull(cd);
+
     }
 
 }
